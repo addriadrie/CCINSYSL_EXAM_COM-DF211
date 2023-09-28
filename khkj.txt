@@ -1,0 +1,3 @@
+One of the two unethical practices mentioned in the scenario is the plan of the developers to put their users' personal data at security risks because of their desire to release their mobile app on time.
+Another one is being not professional and organized enough to actually release the program as scheduled without exposing their users' sensitive information to possible data breaches.
+In the end, the software development team managed to exercise an ethical practice of prioritizing security testing to safeguard their future users from vulnerabilities, although with the delay of release.
